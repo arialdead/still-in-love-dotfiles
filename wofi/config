@@ -1,0 +1,16 @@
+hide_scroll=true
+show=drun
+prompt= スティルインラブ
+term=kitty
+layer=top
+allow_images=true
+halign=center
+allow_markup = true
+content_halign= center
+image_size= 32
+width=90%
+lines=3
+dynamic_lines=true
+sort_order=alphabetical
+location=top
+y=30
